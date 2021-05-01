@@ -31,6 +31,7 @@ class CreateUsersSeeder extends Seeder
                 'photo' => 'admin.jpg',
                 'roles_id' => 1
             ]
+            
         ];
 
         foreach ($user as $key => $value){
